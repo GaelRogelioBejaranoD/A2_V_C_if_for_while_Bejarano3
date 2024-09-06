@@ -13,6 +13,19 @@ Manejo de variables, cadenas, if, for, while
 - ![image](https://github.com/user-attachments/assets/7166efbf-0e15-4164-b009-2638d94b21f8)
 - cuando es falso:
 - ![image](https://github.com/user-attachments/assets/735027a9-f0a5-4e1e-a7e4-9c4bc0a2304f)
+##Ejemplo con for:
+- ![image](https://github.com/user-attachments/assets/b649678c-2d64-4499-975a-c06993f4a35c)
+- resultado:
+- ![image](https://github.com/user-attachments/assets/3c1901a4-63b2-43d7-ba4d-5a9b3e9a4478)
+
+##Ejemplo con while:
+- ![image](https://github.com/user-attachments/assets/503b9e79-84df-4c28-8647-a8316805b0d6)
+- resultado:
+- ![image](https://github.com/user-attachments/assets/06f5fe04-dddb-4b74-a5ea-d1d1dc76c4a3)
+
+
+
+
 
 
 
